@@ -1,0 +1,1 @@
+This folder stores the files related with Kaggle competition [Titanic - Machine Learning From Disaster](https://www.kaggle.com/c/titanic)
